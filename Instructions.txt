@@ -1,0 +1,20 @@
+React Router Outlet
+If you want to load component using URL Patterns
+react-router-dom library
+
+props.children == Outlet
+
+Web Skeleton
+1. header
+2. main
+     2.1 aside
+     2.2 section  <------ Outlet component
+3. footer
+
+/ 	-> index.html
+/about ---> about.html
+/contact ---> contact.html
+/post ---> post.html
+
+
+https://startbootstrap.com/theme/clean-blog     (Free template link of bootstrap 5)
